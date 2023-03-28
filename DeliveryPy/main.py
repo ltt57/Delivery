@@ -1,6 +1,3 @@
-# Lucy Tran
-# WGU -- ID: 001360516
-
 
 from Reader import hash
 from Packages import total_distance
